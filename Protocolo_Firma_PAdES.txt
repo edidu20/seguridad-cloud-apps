@@ -1,0 +1,4 @@
+PROTOCOLO DE FIRMA DIGITAL EN PDF
+Estándar utilizado: PAdES (PDF Advanced Electronic Signatures).
+Función: Asegura la autenticidad del documento y garantiza que no haya sido alterado durante el envío o almacenamiento.
+Aplicación: Validación de integridad mediante firma electrónica avanzada.

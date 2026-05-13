@@ -1,0 +1,4 @@
+PROTOCOLO DE CIFRADO DE DOCUMENTOS PDF
+Estándar utilizado: AES-256-GCM (Advanced Encryption Standard).
+Función: Garantiza la confidencialidad de la información y la integridad de los datos en reposo.
+Aplicación: Protege el contenido contra accesos no autorizados.
